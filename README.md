@@ -38,7 +38,7 @@ SkillFusion is an innovative platform designed to bridge the skill gap between j
 
 ## Figma Design File
 
-- [Figma Design File](https://www.figma.com/file/yourfigmalink)
+- [Figma Design File](https://www.figma.com/design/qiTUGeWXl7jNTQWfWvZRY6/hack4change-2024?node-id=182-570&t=s0OFtrxsrLEYN1ie-1)
 
 ## Contributors
 
