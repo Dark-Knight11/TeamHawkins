@@ -34,7 +34,7 @@ SkillFusion is an innovative platform designed to bridge the skill gap between j
 ## Repository Links
 
 - [Frontend Repository](https://github.com/NachiketGohil/skillfusion)
-- [Backend Repository](To be added)
+- [Backend Repository](https://github.com/Dark-Knight11/SkillFusion-Backend)
 
 ## Figma Design File
 
