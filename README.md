@@ -28,7 +28,7 @@ SkillFusion is an innovative platform designed to bridge the skill gap between j
 - **Vector DB**
 
 ### Other Technologies
-- **LLMs (Large Language Models)**
+- **LLMs (Large Language Models)- Gemini 1.5 Pro(Multimodal)**
 - **RAG (Retrieval Augmented Generation) Agents**
 
 ## Repository Links
